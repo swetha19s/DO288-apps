@@ -1,6 +1,6 @@
 # Use the httpd-parent image as base
-#FROM quay.io/redhattraining/httpd-parent
-FROM registry.access.redhat.com/ubi8/ubi:8.0
+FROM quay.io/redhattraining/httpd-parent
+#FROM registry.access.redhat.com/ubi8/ubi:8.0
 
 
 MAINTAINER Red Hat Training <training@redhat.com>
